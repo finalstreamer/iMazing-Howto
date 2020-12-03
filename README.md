@@ -33,7 +33,7 @@ https://blog.csdn.net/inchat/article/details/104294302 </br>
 ## 写在最后
 总的来说，iMazing安装使用都挺简单。</br>
 另外提醒下，如果你的 IPA 是已经签名的安装包，那么可能还有一个比 iMazing 更简单的方式：</br>
-利用MacOS或者另外一台苹果设备通过「DirDrop」直接把 IPA 发到你想安装的手机或平板上，剩下它会自动安装的。</br>
+利用MacOS或者另外一台苹果设备通过「AirDrop」直接把 IPA 发到你想安装的手机或平板上，剩下它会自动安装的。</br>
 
 ## 参考资料
 * iMazing: https://imazing.com/zh
